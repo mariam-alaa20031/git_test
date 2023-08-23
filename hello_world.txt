@@ -1,0 +1,3 @@
+Hi there :)
+An honor to be working with you all.
+This is just some practice with git commands- nothing more!
